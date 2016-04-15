@@ -7,5 +7,4 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-‚±‚Ìƒeƒ“ƒvƒŒ[ƒg‚Å‚ÍAWindows server 2012 R2 Data center ‚Ì Standard_A0 ‚Å“®‚­ƒVƒ“ƒvƒ‹‚È 5 node, Single Node Type ‚Ì Service fabric Cluster ‚ðƒfƒvƒƒC‚µ‚Ü‚·B
-
+ã“ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã§ã¯ã€Windows server 2012 R2 Data center ã® Standard_A0 ã§å‹•ãã‚·ãƒ³ãƒ—ãƒ«ãª 5 node, Single Node Type ã® Service fabric Cluster ã‚’ãƒ‡ãƒ—ãƒ­ã‚¤ã—ã¾ã™ã€‚
